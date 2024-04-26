@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Edu+NSW+ACT+Foundation:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Reddit+Mono:wght@200..900&family=Rubik+Scribble&family=Signika+Negative:wght@300..700&family=Space+Grotesk:wght@300..700&family=Teko:wght@300..700&family=Ultra&family=Workbench&display=swap');
+
+.navbar-brand{
+    font-family: "Teko", sans-serif;
+}
+
+.title-gold-gradient, .title-gold-gradient:hover{
+    background: linear-gradient(90deg, rgba(242,173,54,1) 0%, rgba(255,222,133,1) 46%, rgba(148,101,21,1) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.nav-gold-text{
+    color: ivory;
+}
+
+.nav-gold-text:hover{
+    color: #feb943;
+}
+
+.text-cyan{
+    color: ivory;
+}
+
+.text-cyan:hover{
+    color: cadetblue;
+}
+
+.text-cyan:focus, .text-cyan:active{
+    color: #feb943;
+}
